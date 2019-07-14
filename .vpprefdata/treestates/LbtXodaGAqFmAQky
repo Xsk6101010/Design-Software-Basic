@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="ewjFAdaGAqAeAQWa" projectPath="C:\Users\Tien Nguyen Van\AppData\Roaming\VisualParadigm\tmp\vptw_imp17346568689163353453.vpp\vptw_imp17346568689163353453.vpp">
+	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="216">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>UseCaseDiagram</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Requirements Capturing</ExpandedPath>
+		<ExpandedPath>RequirementDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<ExpandedPath>ERDiagram</ExpandedPath>
+		<ExpandedPath>ORMDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Business Modeling</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,SysML</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Strategic Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Decision Analysis</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Flowchart</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Engineering</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Cloud Architecture</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Data Visualization</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Network Design</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Others</ExpandedPath>
+		<SelectedPath>WebDiagramGoogleCloudPlatformDiagram</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>
+</ProjectTreeState>

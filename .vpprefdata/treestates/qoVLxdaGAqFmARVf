@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectTreeState projectID="Qz9DxdaGAqFmAQ2x" projectPath="C:\Users\Tien Nguyen Van\AppData\Roaming\VisualParadigm\ws\teamwork_client\projects\SystemDiagramWinform\SystemDiagramWinform.vpp">
+	<TreeState name="TWFileTree" viewX="0" viewY="0"/>
+	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
+	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
+		<ExpandedPath>DiagramNavigator</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
+		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
+		<SelectedPath>InteractionDiagram</SelectedPath>
+	</TreeState>
+	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
+	<TreeState name="LogicalView" viewX="0" viewY="0"/>
+	<TreeState name="DiagramBacklog" viewX="0" viewY="0"/>
+</ProjectTreeState>
