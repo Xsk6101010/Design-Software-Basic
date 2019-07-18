@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProjectsViewInfo>
-	<DiagramOpenInfos activeDiagramId="VeHgN9aGAqFmAQpg">
-		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="y2e0JdaGAqFmATHn" maximized="true" offsetX="0" offsetY="0"/>
+	<DiagramOpenInfos activeDiagramId="IW5W39aGAqFmAUHk">
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="gLn0JdaGAqFmATH." maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="QHFpFn8GAqFmATJd" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="I7a1Fn8GAqFmATQW" maximized="true" offsetX="0" offsetY="0"/>
@@ -15,10 +14,12 @@
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="varwldaGAqFmASut" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="qXO3I9aGAqFmAT7v" maximized="true" offsetX="0" offsetY="0"/>
 		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="waKJo9aGAqFmAV.a" maximized="true" offsetX="0" offsetY="0"/>
-		<Info bounds="Re:0.0,0.0,814.0,489.0" diagramId="VeHgN9aGAqFmAQpg" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,0.0,0.0" diagramId="VeHgN9aGAqFmAQpg" maximized="true" offsetX="0" offsetY="0"/>
+		<Info bounds="Re:0.0,0.0,639.0,663.0" diagramId="IW5W39aGAqFmAUHk" maximized="true" offsetX="0" offsetY="0"/>
 	</DiagramOpenInfos>
 	<DiagramLastActivated>
-		<Diagram id="VeHgN9aGAqFmAQpg" time="1563101611457"/>
+		<Diagram id="IW5W39aGAqFmAUHk" time="1563291187004"/>
+		<Diagram id="VeHgN9aGAqFmAQpg" time="1563291186966"/>
 		<Diagram id="varwldaGAqFmASut" time="1563033045065"/>
 		<Diagram id="nzWBJdaGAqFmAQ4c" time="1563033039813"/>
 		<Diagram id="UeXceler Scrum" time="1563032686825"/>

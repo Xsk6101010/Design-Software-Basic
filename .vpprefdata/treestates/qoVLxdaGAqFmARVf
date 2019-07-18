@@ -6,8 +6,9 @@
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,UML Diagrams</ExpandedPath>
 		<ExpandedPath>InteractionDiagram</ExpandedPath>
+		<ExpandedPath>ActivityDiagram</ExpandedPath>
 		<ExpandedPath>DiagramNavigator,Database Modeling</ExpandedPath>
-		<SelectedPath>InteractionDiagram</SelectedPath>
+		<SelectedPath>ActivityDiagram,waKJo9aGAqFmAV.a</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
